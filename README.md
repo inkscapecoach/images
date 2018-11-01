@@ -1,2 +1,2 @@
 # images
-Here I store all the images you find in my website.
+Here I store all the images you find on my website.
